@@ -17,11 +17,11 @@ public class MethodType {
 	  obj.annualIncomeVoid();
 	  weeklyIncomeStatic();
 	  System.out.println ("My Monthly Income =" + obj.monthlyIncomeReturn ());
-	  
+	  //second attempt2
 	}
 	  //void method
 	  public void annualIncomeVoid(){
-	    int annualIncome = hourlyIncome * 2000;
+	    int annualIncome = hourlyIncome * 4000;
 	    System.out.println ("my Annual Income =" + annualIncome);
 	  }
 	 
