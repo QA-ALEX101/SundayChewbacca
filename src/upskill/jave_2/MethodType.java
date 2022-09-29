@@ -2,7 +2,7 @@ package upskill.jave_2;
 
 public class MethodType {
 	
-	/* Types of Method 001
+	/* Types of Methods 3
 	 
 	 1. Void Method
 	 2. Static Method
