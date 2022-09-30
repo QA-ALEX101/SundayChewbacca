@@ -2,7 +2,7 @@ package upskill.jave_2;
 
 public class MethodType {
 	
-	/* Types of Method 
+	/* Types of Methods 3
 	 
 	 1. Void Method
 	 2. Static Method
@@ -17,11 +17,11 @@ public class MethodType {
 	  obj.annualIncomeVoid();
 	  weeklyIncomeStatic();
 	  System.out.println ("My Monthly Income =" + obj.monthlyIncomeReturn ());
-	  
+	  //second attempt22222
 	}
 	  //void method
 	  public void annualIncomeVoid(){
-	    int annualIncome = hourlyIncome * 2000;
+	    int annualIncome = hourlyIncome * 4000;
 	    System.out.println ("my Annual Income =" + annualIncome);
 	  }
 	 
